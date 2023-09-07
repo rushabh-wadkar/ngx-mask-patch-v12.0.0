@@ -1,6 +1,6 @@
 {
-  "name": "ngx-mask",
-  "version": "12.0.0",
+  "name": "ngx-mask-patch-v12",
+  "version": "12.0.1",
   "description": "awesome ngx mask",
   "keywords": [
     "ng2-mask",
@@ -12,20 +12,23 @@
     "angular2",
     "angular2-mask",
     "ng2mask",
-    "jsdaddy"
+    "jsdaddy",
+    "rushabhwadkar",
+    "rushabh-wadkar"
   ],
   "license": "MIT",
   "author": "ngx-mask",
   "contributors": [
-    "ngx-mask"
+    "ngx-mask",
+    "rushabh-wadkar"
   ],
-  "homepage": "https://github.com/JsDaddy/ngx-mask",
+  "homepage": "https://github.com/rushabh-wadkar/ngx-mask-patch-v12.0.0",
   "repository": {
     "type": "git",
     "url": "git@github.com:JsDaddy/ngx-mask.git"
   },
   "bugs": {
-    "url": "https://github.com/JsDaddy/ngx-mask/issues"
+    "url": "https://github.com/rushabh-wadkar/ngx-mask-patch-v12.0.0/issues"
   },
   "main": "./bundles/ngx-mask.umd.js",
   "module": "./esm5/ngx-mask.js",
